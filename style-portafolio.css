@@ -10,13 +10,13 @@ body{
     font-family: "Montserrat", sans-serif;
 }
 
-.menu, .about-me, .academic, .portafolio, .skills{
-    /*width: 100vw;*/
-    height: 100vh;
+.menu, .about-me, .academic, .portafolio, .skills, .contacto{
+    /*width: 100vw;
+    height: 100vh;*/
     /*background-color: #191c32;*/
     background-image: linear-gradient(to right, #000046, #1cb5e0);
     color: white;
-    padding: 2em;
+    padding: 4em;
 }
 
 .opcion{
