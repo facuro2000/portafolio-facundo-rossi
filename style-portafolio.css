@@ -108,6 +108,7 @@ h1{
 .cuadro-individual{
   background-color: #a4d9fa;
   border-radius: 1em;
+  transition: all .25s;
 }
 
 .cuadro-individual:hover{
