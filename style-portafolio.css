@@ -357,7 +357,44 @@ line-height: 2.5rem;
     cursor: pointer;
   }
   /*---------------------------------------seccion otros modelos---------------------------------------------------------------------*/
-  /*Tablet*/
+@media (max-width: 1024px) {
+
+  /* Menú */
+  .opcion{
+    width: 64%;
+  }
+
+  .main img {
+    width: 279px;
+  }
+  
+  h1{
+    font-size: 2.5em;
+  }
+
+
+  /*title*/
+  
+  /*Skills*/
+  
+  /*Hobbies*/
+  
+  /*Formación Académica*/
+  
+  .formacion-individual {
+    height: 17em;
+    margin: 1em;
+  }
+
+
+
+  /*contacto*/
+  #contacto{
+    height: 124vh;
+  }
+  
+  }  
+/*Tablet*/
 @media (min-width: 768px) {
 
   /* Menú */
